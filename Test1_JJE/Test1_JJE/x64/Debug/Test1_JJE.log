@@ -1,3 +1,5 @@
-﻿  Test1_JJE.vcxproj -> O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Jean-Elie_Jeremie\PROG\Epreuve\Test1_JJE\Test1_JJE\x64\Debug\Test1_JJE.exe
+﻿  Source.c
+C:\JJE_Programmation\PROG_SLO1_TEST1_23_24\Test1_JJE\Test1_JJE\Source.c(30,32): warning C4244: '=' : conversion de 'float' en 'int16_t', perte possible de données
+  Test1_JJE.vcxproj -> C:\JJE_Programmation\PROG_SLO1_TEST1_23_24\Test1_JJE\x64\Debug\Test1_JJE.exe
   'pwsh.exe' n'est pas reconnu en tant que commande interne
   ou externe, un programme exécutable ou un fichier de commandes.
